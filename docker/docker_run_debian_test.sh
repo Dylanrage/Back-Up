@@ -1,0 +1,1 @@
+docker run --name debian_test -it debian

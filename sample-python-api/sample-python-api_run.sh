@@ -1,0 +1,1 @@
+docker run --rm -d -it --name sample-python-api -p 5555:80 src
